@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render the NotFound component 1`] = `
+<div>
+  This is the 404 page component. 
+  <Link
+    to="/"
+  >
+    Back to Home Page
+  </Link>
+</div>
+`;
